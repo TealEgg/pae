@@ -1,0 +1,117 @@
+# PAE - Pure ASCII Emoticons
+
+## Introduction
+
+Let's say you're looking for some emoticons on the world wide web. The results are as shown:
+
+|===
+^|⊂(◉‿◉)つ ^| (╥﹏╥) ^|ಠ_ಠ
+|===
+
+Many of the symbols in the few examples above have Unicode characters not orginally included in the ASCII standard.
+
+This repo contains a small list of possible ASCII emotions that I've thought up of and/or have found online.
+
+
+## Will Extended ASCII be Included in this Compilation?
+
+That remains to be seen. At the moment I've decided not to include them for the sake of simplicity.
+
+## The List
+
+|===
+^s|Description ^s|Emoticon
+// use ^m| for each cell
+^m|smiley
+^m|:)
+^m|smiley (with space)
+^m|: )
+^m|smiley (with nose)
+^m|:^)
+^m|smiley (with tear)
+^m|:')
+^m|grin
+^m|:D
+^m|grin (with space)
+^m|: D
+^m|wink
+^m|;)
+^m|wink (with space)
+^m|; )
+^m|laughing
+^m|XD
+^m|frown
+^m|:(
+^m|frown (with space)
+^m|: (
+^m|crying (left tear)
+^m|:,(
+^m|crying (right tear)
+^m|:'(
+^m|angry
+^m|>:(
+^m|meh
+^m|:/
+^m|tongue
+^m|:p
+^m|sunglasses
+^m|B)
+^m|squint
+^m|>_<
+^m|dead
+^m|x_x
+^m|suprised
+^m|o_o
+^m|very suprised
+^m|O_O
+^m|wow
+^m|:O
+^m|crying (upright)
+^m|T-T
+^m|blank expression
+^m|\*_*
+^m|blank expression (small)
+^m|._.
+^m|dizzy
+^m|@_@
+^m|headphones
+^m|d._.b
+^m|shrug
+^m|`\\_(._.)_/'
+^m|thumbs up
+^m|=b
+^m|thumbs down
+^m|=p
+^m|cheer
+^m|\o/
+^m|salute
+^m|o7
+^m|mouse
+^m|<:3)~~
+^m|fish
+^m|>(((`>
+^m|cat
+^m|=\^._.^=
+^m|spider
+^m|//\(")/\\
+^m|caterpillar
+^m|oo,oo,("o
+^m|bird (head)
+^m|`(.)>
+^m|dollar bill
+^m|[ $ ]
+^m|coffee jug
+^m|(_)7
+^m|coffee mug
+^m|\|_\|7
+^m|heart
+^m|<3
+^m|broken heart (forward slash)
+^m|</3
+^m|broken heart (backslash)
+^m|<\3
+^m|dumbell
+^m|0----0
+^m|volcano
+^m|/*\
+|===

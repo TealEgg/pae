@@ -1,0 +1,92 @@
+smiley
+:)
+smiley (with space)
+: )
+smiley (with nose)
+:^)
+smiley (with tear)
+:')
+grin
+:D
+grin (with space)
+: D
+wink
+;)
+wink (with space)
+; )
+laughing
+XD
+frown
+:(
+frown (with space)
+: (
+crying (left tear)
+:,(
+crying (right tear)
+:'(
+angry
+>:(
+meh
+:/
+tongue
+:p
+sunglasses
+B)
+squint
+>_<
+dead
+x_x
+suprised
+o_o
+very suprised
+O_O
+wow
+:O
+crying (upright)
+T-T
+blank expression
+*_*
+blank expression (small)
+._.
+dizzy
+@_@
+headphones
+d._.b
+shrug
+`\_(._.)_/'
+thumbs up
+=b
+thumbs down
+=p
+cheer
+\o/
+salute
+o7
+mouse
+<:3)~~
+fish
+>(((`>
+cat
+=^._.^=
+spider
+//\(")/\\
+caterpillar
+oo,oo,("o
+bird (head)
+`(.)>
+dollar bill
+[ $ ]
+coffee jug
+(_)7
+coffee mug
+|_|7
+heart
+<3
+broken heart (forward slash)
+</3
+broken heart (backslash)
+<\3
+dumbell
+0----0
+volcano
+/*\
