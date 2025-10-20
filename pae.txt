@@ -66,6 +66,8 @@ mouse
 <:3)~~
 fish
 >(((`>
+snail
+@'-'
 cat
 =^._.^=
 spider

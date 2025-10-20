@@ -90,6 +90,8 @@ That remains to be seen. At the moment I've decided not to include them for the 
 ^m|<:3)~~
 ^m|fish
 ^m|>(((`>
+^m|snail
+^m|@'-'
 ^m|cat
 ^m|=\^._.^=
 ^m|spider
